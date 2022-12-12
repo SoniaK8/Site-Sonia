@@ -165,7 +165,7 @@ clients, l'Eco-resposabilité.</b>
 <section class="expert" id="expert">
     <div class="titre">
         <h2 class="titre-texte">Expériences <span>P</span>rofessionnelles</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. </p>
+        <p>C'est en forgeant que l'on devient forgeron. </p>
     </div>
     <div class="contenu">
         <div class="box">
